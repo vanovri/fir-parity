@@ -1,0 +1,20 @@
+{
+  "taps": "taps.txt",
+  "signal": "signal.txt",
+  "samples": 32,
+  "max_fortran_rust_difference": 0.0,
+  "max_fortran_reference_difference": 0.0,
+  "within_tolerance": true,
+  "fortran": [
+    0.0,
+    0.076536686473,
+    0.21795804271040004,
+    0.40273394921260003
+  ],
+  "rust": [
+    0.0,
+    0.076536686473,
+    0.21795804271040004,
+    0.40273394921260003
+  ]
+}
